@@ -1,0 +1,24 @@
+,Phytoplankton,Microphytobenthos,sedPOC,susPOC,Arachnida,Bacteria,Bivalvia,Bulinus_sp,Chironomidae,Copepoda,Corbicula_fluminalis,Diplostraca,Gastropoda,Gastrotricha,Glossiphoniidae,Insecta,Naididae,Nematoda,Oligochaeta,Platyhelminthes,Rotifera,Tardigrada,Tarebia_granifera
+Phytoplankton,,1,,1,,,1,,1,1,1,1,,,,1,1,,1,,1,1,
+Microphytobenthos,1,,1,,,,1,"0.5, 1",1,1,1,1,"0.5, 1",1,,1,1,1,1,,1,1,"0.5, 1"
+sedPOC,,,,1,,,"0.27, 0.83",1,1,1,1,1,1,1,,1,1,1,1,,1,1,1
+susPOC,,,1,,,1,"0.14, 0.7",1,1,1,1,1,1,,,1,1,1,1,,1,1,1
+Arachnida,,,1,1,1,,,,,,,,,,,,,,,,,,
+Bacteria,,,,1,,,1,,1,1,1,1,,,,1,1,1,1,,1,1,
+Bivalvia,,,1,,,,,,,,,,,,1,,,,,,,,
+Bulinus_sp,,,1,,,,,,,,,,,,1,,,,,,,,
+Chironomidae,,,1,1,1,,,,1,,,,,,1,1,1,,,1,,,
+Copepoda,,,1,1,1,,,,1,1,,,,,1,1,1,,1,1,1,,
+Corbicula_fluminalis,,,,1,,,,,,,,,,,1,,,,,,,,
+Diplostraca,,,1,1,1,,,,1,1,,1,,,1,1,1,,1,1,1,,
+Gastropoda,,,1,,,,,,,,,,,,1,,,,,,,,
+Gastrotricha,,,1,,,,,,,,,,,,,,,,,,,,
+Glossiphoniidae,,,1,,,,,,,,,,,,,,,,,,,,
+Insecta,,,1,1,1,,,,1,,,,,,1,1,1,,,1,,,
+Naididae,,,1,,1,,,,,,,,,,1,1,1,,1,1,,,
+Nematoda,,,1,,1,,,,,,,,,,,,1,1,1,1,,1,
+Oligochaeta,,,1,,1,,,,,,,,,,1,,1,,1,1,,,
+Platyhelminthes,,,1,,,,,,1,,,1,,,,1,1,,1,1,,,
+Rotifera,,,1,1,1,,,,1,1,,1,,,,1,1,,1,1,1,1,
+Tardigrada,,,1,,,,,,,,,,,,,,,,,,,,
+Tarebia_granifera,,,1,,,,,,,,,,,,1,,,,,,,,
